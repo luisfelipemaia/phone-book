@@ -1,6 +1,6 @@
 # phone-book
 
-Lista de contatos em Python puro, com menu e saída no terminal.
+Lista de contatos em Python, com menu e saída no terminal.
 
 ## O que faz
 
